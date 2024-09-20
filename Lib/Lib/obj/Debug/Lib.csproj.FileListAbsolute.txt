@@ -1,0 +1,6 @@
+D:\УП_02.01\5З\Lib\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+D:\УП_02.01\5З\Lib\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\УП_02.01\5З\Lib\Lib\bin\Debug\Lib.dll
+D:\УП_02.01\5З\Lib\Lib\bin\Debug\Lib.pdb
+D:\УП_02.01\5З\Lib\Lib\obj\Debug\Lib.dll
+D:\УП_02.01\5З\Lib\Lib\obj\Debug\Lib.pdb
